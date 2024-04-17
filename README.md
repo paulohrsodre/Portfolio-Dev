@@ -1,9 +1,8 @@
 # Challenge ONE | Front End - Portfólio
 ---
 
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/168887837-b6d26532-6782-48dc-92eb-e48bf6c57a15.png">
-</p>
+![Captura de tela 2024-04-16 204827](https://github.com/paulohrsodre/challenge-one-portfolio-br/assets/31263324/bfc274fc-dd9d-4d5f-b7b5-bfc194330653)
+
 
 ###  Primeiros Passos:
 ---
@@ -18,9 +17,10 @@
 #### 🔹style.css: Documento de CSS com instruções de estilo e também algumas sugestões para seu desenvolvimento
 #### 🔹validacao.js: Documento vazio para que possa aplicar sua lógica de programação, trabalhando com a validação de formulário em JavaScript
 #### Ao clonar, ou realizar o download do projeto base, você tera essa apresentação:
+<div align="center">
+     
+![Captura de tela 2024-04-16 204920](https://github.com/paulohrsodre/challenge-one-portfolio-br/assets/31263324/86664746-1ded-46da-97bb-6f4e12d87f07)
 
+</div>
 
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/168888313-d031e9e1-1449-4b73-bd3c-3102223097f3.png">
-</p>
 
