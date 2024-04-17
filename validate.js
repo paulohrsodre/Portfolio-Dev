@@ -49,8 +49,10 @@ campos.forEach((campo, index) => {
                 break;
             case 1:
                 if(!validaEmail()) {
+                    console.log("validando email")
                     setError(index);
                 } else {
+                    console.log("validado")
                     removeError(index);
                 }
                 break;
@@ -74,7 +76,7 @@ campos.forEach((campo, index) => {
 
 //Função para validar o formato de email
 function validaEmail() {
-    if(emailRegex.test(email)) {
+    if(emailRegex.test(email.value)) {
         return true;
     };
     return false;
