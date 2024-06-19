@@ -4,10 +4,10 @@
 ![Captura de tela 2024-04-16 204827](https://github.com/paulohrsodre/challenge-one-portfolio-br/assets/31263324/bfc274fc-dd9d-4d5f-b7b5-bfc194330653)
 
 
-###  Primeiros Passos:
+###  Projeto Portfolio:
 ---
-#### 🔹Marque esse projeto com uma ⭐
-#### 🔹Siga as orientações do que temos neste repositório 📚
+ 🔹Neste projeto foi criada uma interface moderna baseada no Design proposta pela equipe da Alura e ONE
+ 🔹Além de informações básicas de perfil, disponilizo alguns links de repositórios e deploys de projetos produzidos por mim.
 
 
 ### Analisando nosso repositório!
